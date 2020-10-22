@@ -1,0 +1,62 @@
+trial 1 started at 5381.656520
+stim 1 onset at 5381.831539
+stim 1 offset at 5411.817778
+iti 1 onset at 5411.826092
+iti 1 offset at 5413.817495
+trial 1 - 1 missed sync on 3841 frames, 0.0% (mean/median delay = 8.6/8.6 ms)
+trial 1 stopped at 5413.865804
+trial 2 started at 5413.866059
+stim 2 onset at 5414.118984
+stim 2 offset at 5444.104962
+iti 2 onset at 5444.113290
+iti 2 offset at 5446.104840
+trial 2 - 0 missed sync on 3841 frames, 0.0% (mean/median delay = NaN/NaN ms)
+trial 2 stopped at 5446.114450
+trial 3 started at 5446.114705
+stim 3 onset at 5446.297039
+stim 3 offset at 5476.283833
+iti 3 onset at 5476.292138
+iti 3 offset at 5478.283588
+trial 3 - 1 missed sync on 3841 frames, 0.0% (mean/median delay = 8.1/8.1 ms)
+trial 3 stopped at 5478.293041
+trial 4 started at 5478.293281
+stim 4 onset at 5478.467299
+stim 4 offset at 5508.454417
+iti 4 onset at 5508.462750
+iti 4 offset at 5510.454207
+trial 4 - 1 missed sync on 3841 frames, 0.0% (mean/median delay = 8.2/8.2 ms)
+trial 4 stopped at 5510.463657
+trial 5 started at 5510.464163
+stim 5 onset at 5510.638088
+stim 5 offset at 5540.633483
+iti 5 onset at 5540.641750
+iti 5 offset at 5542.633198
+trial 5 - 1 missed sync on 3841 frames, 0.0% (mean/median delay = 7.7/7.7 ms)
+trial 5 stopped at 5542.646558
+trial 6 started at 5542.647708
+stim 6 onset at 5542.801107
+stim 6 offset at 5572.787256
+iti 6 onset at 5572.795602
+iti 6 offset at 5574.786991
+trial 6 - 1 missed sync on 3841 frames, 0.0% (mean/median delay = 8.2/8.2 ms)
+trial 6 stopped at 5574.796947
+trial 7 started at 5574.797305
+stim 7 onset at 5574.953920
+stim 7 offset at 5604.941243
+iti 7 onset at 5604.949556
+iti 7 offset at 5606.941023
+trial 7 - 0 missed sync on 3841 frames, 0.0% (mean/median delay = NaN/NaN ms)
+trial 7 stopped at 5606.952620
+trial 8 started at 5606.952752
+stim 8 onset at 5607.116284
+stim 8 offset at 5637.103766
+iti 8 onset at 5637.112130
+iti 8 offset at 5639.103410
+trial 8 - 1 missed sync on 3841 frames, 0.0% (mean/median delay = 8.2/8.2 ms)
+trial 8 stopped at 5639.112061
+trial 9 started at 5639.112177
+stim 9 onset at 5639.245273
+stim 9 offset at 5669.232571
+iti 9 onset at 5669.240877
+trial 9 - 0 missed sync on 3601 frames, 0.0% (mean/median delay = NaN/NaN ms)
+trial 9 stopped at 5669.241516
